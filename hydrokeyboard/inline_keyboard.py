@@ -1,4 +1,4 @@
-from hydrogram.emoji import *
+from .emoji import *
 from hydrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from typing import List, Union
 

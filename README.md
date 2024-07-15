@@ -30,7 +30,7 @@
 # Installation
 
 ```shell
-pip install git+https://github.com/fnixdev/HydroKeyboard.git
+pip install git+https://github.com/Daviisdev/HydroKeyboard.git
 ```
 
 # Documentation

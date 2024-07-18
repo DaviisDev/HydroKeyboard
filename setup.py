@@ -8,7 +8,7 @@ with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
 
 setup(
     name='hydrokeyboard',
-    version='0.1.5',
+    version='0.1.6',
     author='PyMaster',
     author_email='',
     description='Best Keyboard and Pagination for the hydrogram Library.',
@@ -29,7 +29,7 @@ setup(
         'Topic :: Software Development :: Libraries :: Python Modules'
     ],
     keywords='telegram hydrogram keyboard bot userbot',
-    url='https://github.com/fnixdev/hydrokeyboard',
+    url='https://github.com/Daviisdev/hydrokeyboard',
     packages=['hydrokeyboard'],
     install_requires=['hydrogram', 'tgcrypto'],
     long_description=long_description,

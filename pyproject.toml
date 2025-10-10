@@ -14,7 +14,7 @@ description = "Best Keyboard and Pagination for the hydrogram Library. Credits f
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
-    "hydrogram",
+    "git+https://github.com/hydrogram/hydrogram@dev",
     "tgcrypto",
 ]
 

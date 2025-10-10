@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=80.9"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hydrokeyboard"
+version = "0.1.7"
+license = "MIT"
+authors = [
+  { name = "DaviisDev", email = "bubbalooteam@proton.me" },
+]
+keywords = ["hydrokeyboard", "hydro_keyboard"]
+description = "Best Keyboard and Pagination for the hydrogram Library. Credits for: PyMaster."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "hydrogram",
+    "tgcrypto",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/DaviisDev/HydroKeyboard"
+"Bug Tracker" = "https://github.com/DaviisDev/HydroKeyboard/issues"

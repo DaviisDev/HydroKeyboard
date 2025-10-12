@@ -15,6 +15,7 @@ readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
     "hydrogram @ git+https://github.com/hydrogram/hydrogram@dev",
+    "tgcrypto @ git+https://github.com/DaviisDev/tgcrypto.git",
 ]
 
 [project.urls]
